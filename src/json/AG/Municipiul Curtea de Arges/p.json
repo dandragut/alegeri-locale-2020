@@ -1,0 +1,65 @@
+[ {
+  "nume" : "Andreescu Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Panţurescu Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Petrescu Daniel",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Păunescu Ion-petre",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Mitrofan Cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Marina Ionuţ-bogdănel",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Stănciulescu Gabriel-mihai",
+  "functie" : "Primar",
+  "partid" : "Partidul Națiunea Română",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Oreviceanu Emelian",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+} ]

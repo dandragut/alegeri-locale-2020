@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Marin Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 87,
+  "circumscriptieNume" : "Stoeneşti"
+}, {
+  "nume" : "Ionaşcu Ionuţ-daniel",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 87,
+  "circumscriptieNume" : "Stoeneşti"
+}, {
+  "nume" : "Enaru Ion-nicuşor",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 87,
+  "circumscriptieNume" : "Stoeneşti"
+}, {
+  "nume" : "Iosifescu Cătălin-ionuţ",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 87,
+  "circumscriptieNume" : "Stoeneşti"
+}, {
+  "nume" : "Bragă Ion",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 87,
+  "circumscriptieNume" : "Stoeneşti"
+} ]

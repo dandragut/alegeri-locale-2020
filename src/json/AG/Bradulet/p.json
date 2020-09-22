@@ -1,0 +1,57 @@
+[ {
+  "nume" : "Iordache Florin",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+}, {
+  "nume" : "Panaitescu Cristinel-călin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+}, {
+  "nume" : "Atanasescu Emilian Dănuţ",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+}, {
+  "nume" : "Alecu Evlampie",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+}, {
+  "nume" : "Ancuţa Constantin-daniel",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+}, {
+  "nume" : "Mincu Gheorghe-sorinel",
+  "functie" : "Primar",
+  "partid" : "Partidul România Mare",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+}, {
+  "nume" : "Dimiean Florian",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 24,
+  "circumscriptieNume" : "Brăduleţ"
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Eremia Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 58,
+  "circumscriptieNume" : "Mărăcineni"
+}, {
+  "nume" : "Dascălu Nicolae-liviu",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 58,
+  "circumscriptieNume" : "Mărăcineni"
+}, {
+  "nume" : "Ivan Andrei-sebastian",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 58,
+  "circumscriptieNume" : "Mărăcineni"
+} ]

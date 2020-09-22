@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Găleteanu Marius-emilian",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 88,
+  "circumscriptieNume" : "Stolnici"
+}, {
+  "nume" : "Pupăză-roşu Sevastian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 88,
+  "circumscriptieNume" : "Stolnici"
+}, {
+  "nume" : "Marin Constantin-valentin",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 88,
+  "circumscriptieNume" : "Stolnici"
+} ]

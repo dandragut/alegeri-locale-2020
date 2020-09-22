@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Iatagan Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 91,
+  "circumscriptieNume" : "Şuici"
+}, {
+  "nume" : "Rudeanu Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 91,
+  "circumscriptieNume" : "Şuici"
+}, {
+  "nume" : "Oprescu Claudia-iuliana",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 91,
+  "circumscriptieNume" : "Şuici"
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "nume" : "Prodan Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+}, {
+  "nume" : "Bondoc Mircea",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+}, {
+  "nume" : "Neacşu Vasile",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+}, {
+  "nume" : "Frăţică Iulian",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+}, {
+  "nume" : "Dochinoiu Niculaie",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+}, {
+  "nume" : "Candidatu Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+}, {
+  "nume" : "Marinescu Alexandru-daniel",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 100,
+  "circumscriptieNume" : "Vedea"
+} ]

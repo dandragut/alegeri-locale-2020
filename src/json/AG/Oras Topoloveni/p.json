@@ -1,0 +1,49 @@
+[ {
+  "nume" : "Oceanu Dorin",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 7,
+  "circumscriptieNume" : "Oraş Topoloveni"
+}, {
+  "nume" : "Vasilescu Victor-gabriel",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 7,
+  "circumscriptieNume" : "Oraş Topoloveni"
+}, {
+  "nume" : "Chivulescu Nicolae",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 7,
+  "circumscriptieNume" : "Oraş Topoloveni"
+}, {
+  "nume" : "Boţârcă Gheorghiţă",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 7,
+  "circumscriptieNume" : "Oraş Topoloveni"
+}, {
+  "nume" : "Şonkoly Cristian-daniel",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 7,
+  "circumscriptieNume" : "Oraş Topoloveni"
+}, {
+  "nume" : "Pănescu Ana-maria",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 7,
+  "circumscriptieNume" : "Oraş Topoloveni"
+} ]

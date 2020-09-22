@@ -1,0 +1,57 @@
+[ {
+  "nume" : "Muşat Nicolae",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+}, {
+  "nume" : "Spiridon Nicoleta-maria",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+}, {
+  "nume" : "Spiridon Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+}, {
+  "nume" : "Mătiţă Dumitru",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța pentru Unirea Românilor",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+}, {
+  "nume" : "Ungureanu Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+}, {
+  "nume" : "Dobre Cornel",
+  "functie" : "Primar",
+  "partid" : "Partidul Socialist Român",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+}, {
+  "nume" : "Purcaru Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 64,
+  "circumscriptieNume" : "Morăreşti"
+} ]

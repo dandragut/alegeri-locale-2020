@@ -1,0 +1,105 @@
+[ {
+  "nume" : "Zidaru Ionuţ-gabriel",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Dinu Dănuţ",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Stancu Liviu",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Apostoliceanu Sorin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Gentea Cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Dinescu Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Țărănesc Creștin Democrat",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Popescu Cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Niţă Victor",
+  "functie" : "Primar",
+  "partid" : "Partidul RE:START ROMÂNIA",
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Moşteanu Liviu-ionuţ",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Gherzan Cătălin",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 10,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Gheldiu Laurenţiu",
+  "functie" : "Primar",
+  "partid" : "Partidul Dreptăţii",
+  "pozitieBuletin" : 11,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Bălan Sorin",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 12,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Alecsandru Dragoş",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 13,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+} ]

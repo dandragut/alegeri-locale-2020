@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Teianu Else",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 66,
+  "circumscriptieNume" : "Mozăceni"
+}, {
+  "nume" : "Dună Liana-corina",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 66,
+  "circumscriptieNume" : "Mozăceni"
+}, {
+  "nume" : "Vochin Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 66,
+  "circumscriptieNume" : "Mozăceni"
+} ]

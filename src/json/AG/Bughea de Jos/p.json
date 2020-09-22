@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Oancea Bogdan",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 26,
+  "circumscriptieNume" : "Bughea De Jos"
+}, {
+  "nume" : "Enache Victor-mihai",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 26,
+  "circumscriptieNume" : "Bughea De Jos"
+}, {
+  "nume" : "Vlădescu Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul România Mare",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 26,
+  "circumscriptieNume" : "Bughea De Jos"
+}, {
+  "nume" : "Tănăsescu Ion-dorel",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 26,
+  "circumscriptieNume" : "Bughea De Jos"
+} ]

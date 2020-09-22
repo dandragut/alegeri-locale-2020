@@ -1,0 +1,17 @@
+[ {
+  "nume" : "Toma Gheorghe-alexandru",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 82,
+  "circumscriptieNume" : "Sălătrucu"
+}, {
+  "nume" : "Langer Nicolae",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 82,
+  "circumscriptieNume" : "Sălătrucu"
+} ]

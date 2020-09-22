@@ -1,0 +1,17 @@
+[ {
+  "nume" : "Mateescu Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 73,
+  "circumscriptieNume" : "Poienarii De Argeş"
+}, {
+  "nume" : "Boncea Dragoş-nicolae",
+  "functie" : "Primar",
+  "partid" : "Alianța Național Țărănistă",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 73,
+  "circumscriptieNume" : "Poienarii De Argeş"
+} ]

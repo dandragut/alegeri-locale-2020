@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Mînzatu Viorel",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 34,
+  "circumscriptieNume" : "Cicăneşti"
+}, {
+  "nume" : "Sarchiz Cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 34,
+  "circumscriptieNume" : "Cicăneşti"
+}, {
+  "nume" : "Ionescu Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 34,
+  "circumscriptieNume" : "Cicăneşti"
+} ]

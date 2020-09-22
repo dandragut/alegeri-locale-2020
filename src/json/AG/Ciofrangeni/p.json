@@ -1,0 +1,17 @@
+[ {
+  "nume" : "Panţeru Dorin-florin",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 35,
+  "circumscriptieNume" : "Ciofrângeni"
+}, {
+  "nume" : "Ghiţă Daniel-gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 35,
+  "circumscriptieNume" : "Ciofrângeni"
+} ]

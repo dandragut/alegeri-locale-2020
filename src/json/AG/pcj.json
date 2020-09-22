@@ -1,0 +1,79 @@
+{
+  "1" : {
+    "nume" : "Mînzînă Ion",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Social Democrat",
+    "pozitieBuletin" : 1,
+    "pozitieLista" : 1
+  },
+  "2" : {
+    "nume" : "Soare Emanuel",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Național Liberal",
+    "pozitieBuletin" : 2,
+    "pozitieLista" : 1
+  },
+  "3" : {
+    "nume" : "Pavel Elena-rodica",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "pozitieBuletin" : 3,
+    "pozitieLista" : 1
+  },
+  "4" : {
+    "nume" : "Baciu Virgil",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Mișcarea Populară",
+    "pozitieBuletin" : 4,
+    "pozitieLista" : 1
+  },
+  "5" : {
+    "nume" : "Grecu Dumitru",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul PRO Romania",
+    "pozitieBuletin" : 5,
+    "pozitieLista" : 1
+  },
+  "6" : {
+    "nume" : "Vele Claudiu-eduard",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Națiunea Română",
+    "pozitieBuletin" : 6,
+    "pozitieLista" : 1
+  },
+  "7" : {
+    "nume" : "Florea Constantin-eduard",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Ecologist Român",
+    "pozitieBuletin" : 7,
+    "pozitieLista" : 1
+  },
+  "8" : {
+    "nume" : "Teodorescu Mihaela",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Dreptăţii",
+    "pozitieBuletin" : 8,
+    "pozitieLista" : 1
+  },
+  "9" : {
+    "nume" : "Cîrstea Adrian-ştefan",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Alianța USR PLUS",
+    "pozitieBuletin" : 9,
+    "pozitieLista" : 1
+  },
+  "10" : {
+    "nume" : "Janţă Gherghina",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Alternativa Dreaptă",
+    "pozitieBuletin" : 10,
+    "pozitieLista" : 1
+  },
+  "11" : {
+    "nume" : "Lazăr Ion-cornel",
+    "functie" : "Presedinte Consiliu Judetean",
+    "partid" : "Partidul Puterii Umaniste (social - liberal)",
+    "pozitieBuletin" : 11,
+    "pozitieLista" : 1
+  }
+}

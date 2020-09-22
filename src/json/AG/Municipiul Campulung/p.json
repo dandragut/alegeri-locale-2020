@@ -1,0 +1,81 @@
+[ {
+  "nume" : "Rădulescu Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Bivol Florin",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Ţâroiu Ioan Liviu",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Zaharia Nicolae",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Ciurea Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Lăsconi Elena-valerica",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Dumitrescu Marius",
+  "functie" : "Primar",
+  "partid" : "Partidul Alternativa Dreaptă",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Fulger Mircea",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Coşa Anca-mihaela",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța pentru Unirea Românilor",
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Stuparu Ioan-virgil",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 10,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+} ]

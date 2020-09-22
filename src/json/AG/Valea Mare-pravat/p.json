@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Mailat Sorin",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 99,
+  "circumscriptieNume" : "Valea Mare-pravăţ"
+}, {
+  "nume" : "Pavel Adrian",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 99,
+  "circumscriptieNume" : "Valea Mare-pravăţ"
+}, {
+  "nume" : "Boncoi Petre-ionel",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 99,
+  "circumscriptieNume" : "Valea Mare-pravăţ"
+} ]

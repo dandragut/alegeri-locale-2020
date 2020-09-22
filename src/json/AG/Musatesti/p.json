@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Uţa Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 67,
+  "circumscriptieNume" : "Muşăteşti"
+}, {
+  "nume" : "Oancea Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 67,
+  "circumscriptieNume" : "Muşăteşti"
+}, {
+  "nume" : "Soroaia Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 67,
+  "circumscriptieNume" : "Muşăteşti"
+}, {
+  "nume" : "Visalom-donescu Valentin",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 67,
+  "circumscriptieNume" : "Muşăteşti"
+}, {
+  "nume" : "Deaconu Mihai",
+  "functie" : "Primar",
+  "partid" : "Partidul RE:START ROMÂNIA",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 67,
+  "circumscriptieNume" : "Muşăteşti"
+} ]

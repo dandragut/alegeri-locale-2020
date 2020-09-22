@@ -1,0 +1,17 @@
+[ {
+  "nume" : "Stoican Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 12,
+  "circumscriptieNume" : "Arefu"
+}, {
+  "nume" : "Niţescu Marius",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 12,
+  "circumscriptieNume" : "Arefu"
+} ]

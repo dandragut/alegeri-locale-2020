@@ -1,0 +1,49 @@
+[ {
+  "nume" : "Ibric Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 54,
+  "circumscriptieNume" : "Leordeni"
+}, {
+  "nume" : "Cristian Aurelian",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 54,
+  "circumscriptieNume" : "Leordeni"
+}, {
+  "nume" : "Lazăr Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 54,
+  "circumscriptieNume" : "Leordeni"
+}, {
+  "nume" : "Stroescu Nicolae-marius",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 54,
+  "circumscriptieNume" : "Leordeni"
+}, {
+  "nume" : "Tomescu Costel",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 54,
+  "circumscriptieNume" : "Leordeni"
+}, {
+  "nume" : "Ciorchină Ruxandra",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 54,
+  "circumscriptieNume" : "Leordeni"
+} ]

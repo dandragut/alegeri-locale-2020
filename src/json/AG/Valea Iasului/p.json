@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Enescu Cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 98,
+  "circumscriptieNume" : "Valea Iaşului"
+}, {
+  "nume" : "Ştefănescu Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 98,
+  "circumscriptieNume" : "Valea Iaşului"
+}, {
+  "nume" : "Barbu Nicolae",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 98,
+  "circumscriptieNume" : "Valea Iaşului"
+}, {
+  "nume" : "Ungureanu Vasile",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 98,
+  "circumscriptieNume" : "Valea Iaşului"
+} ]

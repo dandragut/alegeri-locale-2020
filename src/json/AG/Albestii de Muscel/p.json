@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Manta Cătălin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 9,
+  "circumscriptieNume" : "Albeştii De Muscel"
+}, {
+  "nume" : "Stănescu Răzvan-ionuţ",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 9,
+  "circumscriptieNume" : "Albeştii De Muscel"
+}, {
+  "nume" : "Năftănailă Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 9,
+  "circumscriptieNume" : "Albeştii De Muscel"
+}, {
+  "nume" : "Podeanu Liviu",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 9,
+  "circumscriptieNume" : "Albeştii De Muscel"
+}, {
+  "nume" : "Solomon Daniel",
+  "functie" : "Primar",
+  "partid" : "Partidul România Mare",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 9,
+  "circumscriptieNume" : "Albeştii De Muscel"
+} ]

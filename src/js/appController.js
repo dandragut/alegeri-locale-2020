@@ -25,7 +25,6 @@ define(['knockout', 'ojs/ojmodule-element-utils', 'ojs/ojknockouttemplateutils',
 
       document.getElementById('globalBody').addEventListener('announce', announcementHandler, false);
 
-
       // Media queries for repsonsive layouts
       const smQuery = ResponsiveUtils.getFrameworkQuery(ResponsiveUtils.FRAMEWORK_QUERY_KEY.SM_ONLY);
       this.smScreen = ResponsiveKnockoutUtils.createMediaQueryObservable(smQuery);
@@ -33,10 +32,10 @@ define(['knockout', 'ojs/ojmodule-element-utils', 'ojs/ojknockouttemplateutils',
       this.mdScreen = ResponsiveKnockoutUtils.createMediaQueryObservable(mdQuery);
 
       let navData = [
-        { path: '', redirect: 'dashboard' },
-        { path: 'dashboard', detail: { label: 'Dashboard', iconClass: 'oj-ux-ico-bar-chart' } },
+        { path: '', redirect: 'primari' },
+        { path: 'primari', detail: { label: 'Primari', iconClass: 'oj-ux-ico-bar-chart' } },
         { path: 'incidents', detail: { label: 'Incidents', iconClass: 'oj-ux-ico-fire' } },
-        { path: 'customers', detail: { label: 'Customers', iconClass: 'oj-ux-ico-contact-group' } },
+        { path: 'pcj', detail: { label: 'Presedinti CJ', iconClass: 'oj-ux-ico-contact-group' } },
         { path: 'about', detail: { label: 'About', iconClass: 'oj-ux-ico-information-s' } }
       ];
 
@@ -70,19 +69,65 @@ define(['knockout', 'ojs/ojmodule-element-utils', 'ojs/ojknockouttemplateutils',
 
       // Header
       // Application Name used in Branding Area
-      this.appName = ko.observable("App Name");
+      this.appName = ko.observable("Alegerea Autorităților Administrației Publice Locale - 27 Septembrie 2020");
       // User Info used in Global Navigation area
       this.userLogin = ko.observable("john.hancock@oracle.com");
 
       // Footer
       this.footerLinks = [
-        {name: 'About Oracle', linkId: 'aboutOracle', linkTarget:'http://www.oracle.com/us/corporate/index.html#menu-about'},
-        { name: "Contact Us", id: "contactUs", linkTarget: "http://www.oracle.com/us/corporate/contact/index.html" },
-        { name: "Legal Notices", id: "legalNotices", linkTarget: "http://www.oracle.com/us/legal/index.html" },
-        { name: "Terms Of Use", id: "termsOfUse", linkTarget: "http://www.oracle.com/us/legal/terms/index.html" },
-        { name: "Your Privacy Rights", id: "yourPrivacyRights", linkTarget: "http://www.oracle.com/us/legal/privacy/index.html" },
+        {name: 'Candidati - BIROUL ELECTORAL CENTRAL', linkId: 'candidati', linkTarget:'https://locale2020.bec.ro/candidati/'}
       ];
+
+      /*
+       *
+       */
+       // Parseaza valorile din URL (optionale)...
+       var params      = new URLSearchParams(window.location.search);
+       self.judet      = params.has('judet')      ? ko.observable(         params.get('judet')      ) : ko.observable();
+       self.localitate = params.has('localitate') ? ko.observable(         params.get('localitate') ) : ko.observable();
+
+       // Judete / Localitati per judet
+       self.judete       = ko.observableArray()
+       self.localitati   = ko.observableArray()
+
+       $.getJSON('json/judete.json')
+           .done(function(data) {
+                // Judete...
+                self.judete(
+                    $.map(data, function(item) {
+                        return { "label": item.nume, "value": item.cod };
+                    })
+                );
+                console.log(self.judete());
+           })
+          .fail(function() {
+              self.localitate('');
+               self.localitati([]);
+               self.primari   ([]);
+           });
+
+       /*
+        * Judete (drop-down handler)...
+        */
+       self.judetCuLocalitatiSchimba = function(event, data) {
+           if (event.detail.value) {
+               $.getJSON(['json', self.judet(), 'localitati.json'].join('/'))
+                   .done(function(data) {
+                       self.localitati(
+                           $.map(data, function(localitate) {
+                               return { "label": localitate, "value": localitate };
+                           })
+                       );
+                   })
+                   .fail(function() {
+                       self.localitate('');
+                       self.localitati([]);
+                   });
+           }
+       };
      }
+
+
 
      return new ControllerViewModel();
   }

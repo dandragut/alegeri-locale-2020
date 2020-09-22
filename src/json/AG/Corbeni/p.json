@@ -1,0 +1,73 @@
+[ {
+  "nume" : "Dinică Nicolae",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Ureche Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Arman Alexandru-ionuţ",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Pristavu Eugen",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Lazăr Gheorghe-gabriel",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Nedelea Petre",
+  "functie" : "Primar",
+  "partid" : "Partidul Verde",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Dovleac Bogdan-ionuţ",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Arman Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+}, {
+  "nume" : "Mateescu Virgil-remo",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 38,
+  "circumscriptieNume" : "Corbeni"
+} ]

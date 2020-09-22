@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Minciună Ion-mugurel",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 33,
+  "circumscriptieNume" : "Cetăţeni"
+}, {
+  "nume" : "Ciobanu Claudius",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 33,
+  "circumscriptieNume" : "Cetăţeni"
+}, {
+  "nume" : "Ciurezu Mihai",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 33,
+  "circumscriptieNume" : "Cetăţeni"
+} ]

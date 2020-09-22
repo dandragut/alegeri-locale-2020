@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Dumitru Claudia",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 32,
+  "circumscriptieNume" : "Cepari"
+}, {
+  "nume" : "Ciobanu Alexei-cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 32,
+  "circumscriptieNume" : "Cepari"
+}, {
+  "nume" : "Minculete Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 32,
+  "circumscriptieNume" : "Cepari"
+} ]

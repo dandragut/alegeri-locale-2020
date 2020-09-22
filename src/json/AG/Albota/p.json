@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Dumitru Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 10,
+  "circumscriptieNume" : "Albota"
+}, {
+  "nume" : "David Ilie-dragoş",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 10,
+  "circumscriptieNume" : "Albota"
+}, {
+  "nume" : "Mareşanu Mihail",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 10,
+  "circumscriptieNume" : "Albota"
+}, {
+  "nume" : "Zanfir Florin",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 10,
+  "circumscriptieNume" : "Albota"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Preda Vasile-cristinel",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 49,
+  "circumscriptieNume" : "Drăganu"
+}, {
+  "nume" : "Stan Claudiu-lucian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 49,
+  "circumscriptieNume" : "Drăganu"
+}, {
+  "nume" : "Zămârcaru Nicolae",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 49,
+  "circumscriptieNume" : "Drăganu"
+}, {
+  "nume" : "Ionescu Ionela",
+  "functie" : "Primar",
+  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 49,
+  "circumscriptieNume" : "Drăganu"
+} ]

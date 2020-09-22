@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Crîmpiţă-matei Andreea-iuliana",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 61,
+  "circumscriptieNume" : "Mihăeşti"
+}, {
+  "nume" : "Iana Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 61,
+  "circumscriptieNume" : "Mihăeşti"
+}, {
+  "nume" : "Popa Constantin-marcel",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 61,
+  "circumscriptieNume" : "Mihăeşti"
+} ]

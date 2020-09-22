@@ -1,0 +1,17 @@
+[ {
+  "nume" : "Secăreanu Dumitru",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 44,
+  "circumscriptieNume" : "Dâmbovicioara"
+}, {
+  "nume" : "Avram Marian-vicenţiu",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 44,
+  "circumscriptieNume" : "Dâmbovicioara"
+} ]

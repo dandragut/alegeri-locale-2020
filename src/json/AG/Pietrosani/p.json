@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Tache Ioana",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 71,
+  "circumscriptieNume" : "Pietroşani"
+}, {
+  "nume" : "Pătru Eugeniu",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 71,
+  "circumscriptieNume" : "Pietroşani"
+}, {
+  "nume" : "Tănase Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 71,
+  "circumscriptieNume" : "Pietroşani"
+}, {
+  "nume" : "Ivaşcu Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 71,
+  "circumscriptieNume" : "Pietroşani"
+} ]

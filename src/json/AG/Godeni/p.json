@@ -1,0 +1,49 @@
+[ {
+  "nume" : "Savu Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 50,
+  "circumscriptieNume" : "Godeni"
+}, {
+  "nume" : "Pădureanu Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 50,
+  "circumscriptieNume" : "Godeni"
+}, {
+  "nume" : "Croitoru Ionela-tatiana",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 50,
+  "circumscriptieNume" : "Godeni"
+}, {
+  "nume" : "Aldea Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 50,
+  "circumscriptieNume" : "Godeni"
+}, {
+  "nume" : "Poştoacă Constantin-dorin",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 50,
+  "circumscriptieNume" : "Godeni"
+}, {
+  "nume" : "Pătrăşcan Remus-ionel",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 50,
+  "circumscriptieNume" : "Godeni"
+} ]

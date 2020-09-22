@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Bîlea Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 70,
+  "circumscriptieNume" : "Oarja"
+}, {
+  "nume" : "Badea Cristian",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 70,
+  "circumscriptieNume" : "Oarja"
+}, {
+  "nume" : "Angelescu Florin",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 70,
+  "circumscriptieNume" : "Oarja"
+}, {
+  "nume" : "Argeşanu Alexandru",
+  "functie" : "Primar",
+  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 70,
+  "circumscriptieNume" : "Oarja"
+}, {
+  "nume" : "Bălae Ionel",
+  "functie" : "Primar",
+  "partid" : "Partidul România Mare",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 70,
+  "circumscriptieNume" : "Oarja"
+} ]

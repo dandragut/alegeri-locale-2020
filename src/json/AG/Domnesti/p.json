@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Smădu Ion-doru",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 47,
+  "circumscriptieNume" : "Domneşti"
+}, {
+  "nume" : "Zăvoianu Ion-gabriel",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 47,
+  "circumscriptieNume" : "Domneşti"
+}, {
+  "nume" : "Petriţă Alexandru",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 47,
+  "circumscriptieNume" : "Domneşti"
+}, {
+  "nume" : "Bărboiu Maria",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 47,
+  "circumscriptieNume" : "Domneşti"
+}, {
+  "nume" : "Grigore Bogdan",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 47,
+  "circumscriptieNume" : "Domneşti"
+} ]

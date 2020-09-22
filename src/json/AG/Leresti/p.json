@@ -1,0 +1,17 @@
+[ {
+  "nume" : "Marin Constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 55,
+  "circumscriptieNume" : "Lereşti"
+}, {
+  "nume" : "Toader Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 55,
+  "circumscriptieNume" : "Lereşti"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Craiu Teodor-daniel",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 25,
+  "circumscriptieNume" : "Budeasa"
+}, {
+  "nume" : "Stan Liviu",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 25,
+  "circumscriptieNume" : "Budeasa"
+}, {
+  "nume" : "Rachieru Nicolae Mihail",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 25,
+  "circumscriptieNume" : "Budeasa"
+}, {
+  "nume" : "Kisîm Marian Alin",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 25,
+  "circumscriptieNume" : "Budeasa"
+} ]

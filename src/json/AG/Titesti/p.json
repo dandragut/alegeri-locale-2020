@@ -1,0 +1,25 @@
+[ {
+  "nume" : "Savu Gheorghe",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 94,
+  "circumscriptieNume" : "Ţiţeşti"
+}, {
+  "nume" : "Boteanu Ionuţ-nicolaie",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 94,
+  "circumscriptieNume" : "Ţiţeşti"
+}, {
+  "nume" : "Robea Neculae",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 94,
+  "circumscriptieNume" : "Ţiţeşti"
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Bucălie Florian",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 57,
+  "circumscriptieNume" : "Mălureni"
+}, {
+  "nume" : "Călugăru Marin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 57,
+  "circumscriptieNume" : "Mălureni"
+}, {
+  "nume" : "Parolea-moga Adrian",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 57,
+  "circumscriptieNume" : "Mălureni"
+}, {
+  "nume" : "Petria Dumitru Titel",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 57,
+  "circumscriptieNume" : "Mălureni"
+}, {
+  "nume" : "Perja Dumitru",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 57,
+  "circumscriptieNume" : "Mălureni"
+} ]

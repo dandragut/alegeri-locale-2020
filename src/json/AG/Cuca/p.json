@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Deaconu Georgel-cristinel",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 42,
+  "circumscriptieNume" : "Cuca"
+}, {
+  "nume" : "Ghiţulescu Miron",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 42,
+  "circumscriptieNume" : "Cuca"
+}, {
+  "nume" : "Vlad Marin",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 42,
+  "circumscriptieNume" : "Cuca"
+}, {
+  "nume" : "Şerban Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 42,
+  "circumscriptieNume" : "Cuca"
+} ]

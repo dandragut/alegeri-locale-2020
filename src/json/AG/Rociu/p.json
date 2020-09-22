@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Miu Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 80,
+  "circumscriptieNume" : "Rociu"
+}, {
+  "nume" : "Voicu Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 80,
+  "circumscriptieNume" : "Rociu"
+}, {
+  "nume" : "Dumitru Ilie",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 80,
+  "circumscriptieNume" : "Rociu"
+}, {
+  "nume" : "Bălăşoiu Aurel",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 80,
+  "circumscriptieNume" : "Rociu"
+}, {
+  "nume" : "Neagoe Valeriu",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 80,
+  "circumscriptieNume" : "Rociu"
+} ]

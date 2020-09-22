@@ -1,0 +1,33 @@
+[ {
+  "nume" : "Tică Ion-constantin",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 74,
+  "circumscriptieNume" : "Poienarii De Muscel"
+}, {
+  "nume" : "Chiţu Gheorghe-galileu",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 74,
+  "circumscriptieNume" : "Poienarii De Muscel"
+}, {
+  "nume" : "Banzea Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 74,
+  "circumscriptieNume" : "Poienarii De Muscel"
+}, {
+  "nume" : "Murăruş Marian",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 74,
+  "circumscriptieNume" : "Poienarii De Muscel"
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "nume" : "Mira Eugen",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 31,
+  "circumscriptieNume" : "Căteasca"
+}, {
+  "nume" : "Bănuţă Adrian",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 31,
+  "circumscriptieNume" : "Căteasca"
+}, {
+  "nume" : "Năstase Florian-liviu",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 31,
+  "circumscriptieNume" : "Căteasca"
+}, {
+  "nume" : "Marinescu Florin",
+  "functie" : "Primar",
+  "partid" : "Partidul Național Liberal",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 31,
+  "circumscriptieNume" : "Căteasca"
+}, {
+  "nume" : "Oprescu Vasile-codruţ",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 31,
+  "circumscriptieNume" : "Căteasca"
+} ]

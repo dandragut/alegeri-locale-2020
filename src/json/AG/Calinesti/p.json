@@ -1,0 +1,49 @@
+[ {
+  "nume" : "Chirănescu Ion",
+  "functie" : "Primar",
+  "partid" : "Partidul Mișcarea Populară",
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 30,
+  "circumscriptieNume" : "Călineşti"
+}, {
+  "nume" : "Mărăşoiu Dorin",
+  "functie" : "Primar",
+  "partid" : "Partidul PRO Romania",
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 30,
+  "circumscriptieNume" : "Călineşti"
+}, {
+  "nume" : "Răducanu Gabriela",
+  "functie" : "Primar",
+  "partid" : "Alianța USR PLUS",
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 30,
+  "circumscriptieNume" : "Călineşti"
+}, {
+  "nume" : "Georgescu Mihai",
+  "functie" : "Primar",
+  "partid" : "Partidul Social Democrat",
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 30,
+  "circumscriptieNume" : "Călineşti"
+}, {
+  "nume" : "Anghelina Graţiela-maria",
+  "functie" : "Primar",
+  "partid" : "Partidul Ecologist Român",
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 30,
+  "circumscriptieNume" : "Călineşti"
+}, {
+  "nume" : "Moţ Adrian-daniel",
+  "functie" : "Primar",
+  "partid" : "Candidat Independent",
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 30,
+  "circumscriptieNume" : "Călineşti"
+} ]
