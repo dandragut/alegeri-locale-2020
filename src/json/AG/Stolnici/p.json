@@ -1,23 +1,38 @@
 [ {
-  "nume" : "Găleteanu Marius-emilian",
+  "nume" : "Marius-Emilian Găleteanu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 88,
   "circumscriptieNume" : "Stolnici"
 }, {
-  "nume" : "Pupăză-roşu Sevastian",
+  "nume" : "Sevastian Pupăză-roşu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 88,
   "circumscriptieNume" : "Stolnici"
 }, {
-  "nume" : "Marin Constantin-valentin",
+  "nume" : "Constantin-Valentin Marin",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 88,

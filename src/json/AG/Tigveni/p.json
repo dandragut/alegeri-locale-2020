@@ -1,39 +1,63 @@
 [ {
-  "nume" : "Vasilescu Iordache",
+  "nume" : "Iordache Vasilescu",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 93,
   "circumscriptieNume" : "Tigveni"
 }, {
-  "nume" : "Slătineanu Dumitru Doru",
+  "nume" : "Dumitru Doru Slătineanu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 93,
   "circumscriptieNume" : "Tigveni"
 }, {
-  "nume" : "Smeu Constantin",
+  "nume" : "Constantin Smeu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 93,
   "circumscriptieNume" : "Tigveni"
 }, {
-  "nume" : "Nastea Gheorghe-mihăiţă",
+  "nume" : "Gheorghe-Mihăiţă Nastea",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 93,
   "circumscriptieNume" : "Tigveni"
 }, {
-  "nume" : "Tuică Laurenţiu-constantin",
+  "nume" : "Laurenţiu-Constantin Tuică",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 93,

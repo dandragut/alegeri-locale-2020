@@ -1,71 +1,113 @@
 [ {
-  "nume" : "Dinică Nicolae",
+  "nume" : "Nicolae Dinică",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Ureche Ion",
+  "nume" : "Ion Ureche",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Arman Alexandru-ionuţ",
+  "nume" : "Alexandru-Ionuţ Arman",
   "functie" : "Primar",
-  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Pristavu Eugen",
+  "nume" : "Eugen Pristavu",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Lazăr Gheorghe-gabriel",
+  "nume" : "Gheorghe-Gabriel Lazăr",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Nedelea Petre",
+  "nume" : "Petre Nedelea",
   "functie" : "Primar",
-  "partid" : "Partidul Verde",
+  "partid" : {
+    "cod" : "PR",
+    "nume" : "Partidul Verde",
+    "website" : "https://partidulverde.ro",
+    "facebook" : "https://www.facebook.com/Partidul.Verde/"
+  },
   "pozitieBuletin" : 6,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Dovleac Bogdan-ionuţ",
+  "nume" : "Bogdan-Ionuţ Dovleac",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 7,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Arman Ion",
+  "nume" : "Ion Arman",
   "functie" : "Primar",
-  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
   "pozitieBuletin" : 8,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,
   "circumscriptieNume" : "Corbeni"
 }, {
-  "nume" : "Mateescu Virgil-remo",
+  "nume" : "Virgil-Remo Mateescu",
   "functie" : "Primar",
-  "partid" : "Partidul Ecologist Român",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
   "pozitieBuletin" : 9,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 38,

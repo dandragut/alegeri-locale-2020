@@ -1,39 +1,63 @@
 [ {
-  "nume" : "Gheorghe Marin",
+  "nume" : "Marin Gheorghe",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 14,
   "circumscriptieNume" : "Băbana"
 }, {
-  "nume" : "Ivan Vasile-bebe",
+  "nume" : "Vasile-Bebe Ivan",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 14,
   "circumscriptieNume" : "Băbana"
 }, {
-  "nume" : "Sorescu Ion",
+  "nume" : "Ion Sorescu",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 14,
   "circumscriptieNume" : "Băbana"
 }, {
-  "nume" : "Dură Ion",
+  "nume" : "Ion Dură",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 14,
   "circumscriptieNume" : "Băbana"
 }, {
-  "nume" : "Creţu Rodica",
+  "nume" : "Rodica Creţu",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 14,

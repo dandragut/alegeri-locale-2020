@@ -1,39 +1,62 @@
 [ {
-  "nume" : "Manta Cătălin",
+  "nume" : "Cătălin Manta",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 9,
   "circumscriptieNume" : "Albeştii De Muscel"
 }, {
-  "nume" : "Stănescu Răzvan-ionuţ",
+  "nume" : "Răzvan-Ionuţ Stănescu",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 9,
   "circumscriptieNume" : "Albeştii De Muscel"
 }, {
-  "nume" : "Năftănailă Ion",
+  "nume" : "Ion Năftănailă",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 9,
   "circumscriptieNume" : "Albeştii De Muscel"
 }, {
-  "nume" : "Podeanu Liviu",
+  "nume" : "Liviu Podeanu",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 9,
   "circumscriptieNume" : "Albeştii De Muscel"
 }, {
-  "nume" : "Solomon Daniel",
+  "nume" : "Daniel Solomon",
   "functie" : "Primar",
-  "partid" : "Partidul România Mare",
+  "partid" : {
+    "cod" : "PAM",
+    "nume" : "Partidul România Mare",
+    "facebook" : "https://www.facebook.com/PartidulRomaniaMare"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 9,

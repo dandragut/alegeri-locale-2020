@@ -1,39 +1,63 @@
 [ {
-  "nume" : "Uţa Ion",
+  "nume" : "Ion Uţa",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 67,
   "circumscriptieNume" : "Muşăteşti"
 }, {
-  "nume" : "Oancea Constantin",
+  "nume" : "Constantin Oancea",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 67,
   "circumscriptieNume" : "Muşăteşti"
 }, {
-  "nume" : "Soroaia Ion",
+  "nume" : "Ion Soroaia",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 67,
   "circumscriptieNume" : "Muşăteşti"
 }, {
-  "nume" : "Visalom-donescu Valentin",
+  "nume" : "Valentin Visalom-donescu",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 67,
   "circumscriptieNume" : "Muşăteşti"
 }, {
-  "nume" : "Deaconu Mihai",
+  "nume" : "Mihai Deaconu",
   "functie" : "Primar",
-  "partid" : "Partidul RE:START ROMÂNIA",
+  "partid" : {
+    "cod" : "PRSR",
+    "nume" : "Partidul RE:START ROMÂNIA",
+    "website" : "https://restart-romania.ro",
+    "facebook" : "https://www.facebook.com/PartidulRestartRomania/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 67,

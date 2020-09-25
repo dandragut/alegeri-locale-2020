@@ -1,47 +1,75 @@
 [ {
-  "nume" : "Niţă Marin",
+  "nume" : "Marin Niţă",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 63,
   "circumscriptieNume" : "Miroşi"
 }, {
-  "nume" : "Mitroi Micu",
+  "nume" : "Micu Mitroi",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 63,
   "circumscriptieNume" : "Miroşi"
 }, {
-  "nume" : "Crîşmac Emil",
+  "nume" : "Emil Crîşmac",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 63,
   "circumscriptieNume" : "Miroşi"
 }, {
-  "nume" : "Ghiţă Iulică",
+  "nume" : "Iulică Ghiţă",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 63,
   "circumscriptieNume" : "Miroşi"
 }, {
-  "nume" : "Ghiţă Elena",
+  "nume" : "Elena Ghiţă",
   "functie" : "Primar",
-  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 63,
   "circumscriptieNume" : "Miroşi"
 }, {
-  "nume" : "Sîrbu Constantin",
+  "nume" : "Constantin Sîrbu",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 6,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 63,

@@ -32,11 +32,11 @@ define(['knockout', 'ojs/ojmodule-element-utils', 'ojs/ojknockouttemplateutils',
       this.mdScreen = ResponsiveKnockoutUtils.createMediaQueryObservable(mdQuery);
 
       let navData = [
-        { path: '', redirect: 'primari' },
-        { path: 'primari', detail: { label: 'Primari', iconClass: 'oj-ux-ico-bar-chart' } },
-        { path: 'incidents', detail: { label: 'Incidents', iconClass: 'oj-ux-ico-fire' } },
-        { path: 'pcj', detail: { label: 'Presedinti CJ', iconClass: 'oj-ux-ico-contact-group' } },
-        { path: 'about', detail: { label: 'About', iconClass: 'oj-ux-ico-information-s' } }
+        { path: '',    redirect: 'p' },
+        { path: 'p',   detail: { label: 'Primar',                       iconClass: 'oj-ux-ico-contact' } },
+        { path: 'cl',  detail: { label: 'Consiliu Local',               iconClass: 'oj-ux-ico-contact-group' } },
+        { path: 'pcj', detail: { label: 'Președinte Consiliu Județean', iconClass: 'oj-ux-ico-contact' } },
+        { path: 'cj',  detail: { label: 'Consiliu Județean',            iconClass: 'oj-ux-ico-contact-group' } }
       ];
 
       // Router setup
@@ -69,7 +69,8 @@ define(['knockout', 'ojs/ojmodule-element-utils', 'ojs/ojknockouttemplateutils',
 
       // Header
       // Application Name used in Branding Area
-      this.appName = ko.observable("Alegerea Autorităților Administrației Publice Locale - 27 Septembrie 2020");
+      this.appName = ko.observable("Candidaţi - Administrație Publică Locală - 27 Septembrie 2020");
+      document.title = this.appName();
       // User Info used in Global Navigation area
       this.userLogin = ko.observable("john.hancock@oracle.com");
 
@@ -81,54 +82,69 @@ define(['knockout', 'ojs/ojmodule-element-utils', 'ojs/ojknockouttemplateutils',
       /*
        *
        */
-       // Parseaza valorile din URL (optionale)...
-       var params      = new URLSearchParams(window.location.search);
-       self.judet      = params.has('judet')      ? ko.observable(         params.get('judet')      ) : ko.observable();
-       self.localitate = params.has('localitate') ? ko.observable(         params.get('localitate') ) : ko.observable();
+      // Init
+      self.judet      = ko.observable();
+      self.localitate = ko.observable();
+      self.judete     = ko.observableArray()
+      self.localitati = ko.observableArray()
 
-       // Judete / Localitati per judet
-       self.judete       = ko.observableArray()
-       self.localitati   = ko.observableArray()
-
-       $.getJSON('json/judete.json')
-           .done(function(data) {
+      // Obtine judete...
+      $.getJSON('json/judete.json')
+            .done(function(data) {
                 // Judete...
                 self.judete(
                     $.map(data, function(item) {
                         return { "label": item.nume, "value": item.cod };
                     })
                 );
-                console.log(self.judete());
-           })
-          .fail(function() {
-              self.localitate('');
-               self.localitati([]);
-               self.primari   ([]);
-           });
+            });
 
-       /*
-        * Judete (drop-down handler)...
-        */
-       self.judetCuLocalitatiSchimba = function(event, data) {
-           if (event.detail.value) {
-               $.getJSON(['json', self.judet(), 'localitati.json'].join('/'))
-                   .done(function(data) {
-                       self.localitati(
-                           $.map(data, function(localitate) {
-                               return { "label": localitate, "value": localitate };
-                           })
-                       );
-                   })
-                   .fail(function() {
-                       self.localitate('');
-                       self.localitati([]);
-                   });
-           }
-       };
-     }
+      /*
+       * Judete (drop-down handler)...
+       */
+      self.judetCuLocalitatiSchimba = function(event, data) {
+          if ((event.detail.value && !event.detail.previousValue)
+            || (event.detail.value && event.detail.previousValue && event.detail.value != event.detail.previousValue)) {
+              $.getJSON(['json', self.judet(), 'localitati.json'].join('/'))
+                  .done(function(data) {
+                      self.localitati(
+                          $.map(data, function(localitate) {
+                              return { "label": localitate, "value": localitate };
+                          })
+                      );
+                  })
+                  .fail(function() {
+                      self.localitate('');
+                      self.localitati([]);
+                  });
+          }
+      };
 
+      /*
+       * Stocheaza noi parametrii in URL
+       */
+      self.schimbaParametriiInURL = function() {
+          if (self.judet() && self.localitate()) {
+             var queryParams = new URLSearchParams();
+             queryParams.set('judet',      self.judet());
+             queryParams.set('localitate', self.localitate());
+             window.history.replaceState({}, '', '?' + queryParams);
+          }
+      }
+    }
 
+    /*
+     * Parametri?
+     */
+    setTimeout(function() {
+      const params = new URLSearchParams(window.location.search);
+      if (params.has('judet'))      { self.judet     (params.get('judet')); }
+      if (params.has('localitate')) { self.localitate(params.get('localitate')); }
+    }, 1000);
 
-     return new ControllerViewModel();
+    /*
+     * ViewModel...
+     */
+    return new ControllerViewModel();
   }
 );

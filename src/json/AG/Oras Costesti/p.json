@@ -1,55 +1,88 @@
 [ {
-  "nume" : "Baicea Ion",
+  "nume" : "Ion Baicea",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,
   "circumscriptieNume" : "Oraş Costeşti"
 }, {
-  "nume" : "Vasile Ion-dan",
+  "nume" : "Ion-Dan Vasile",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,
   "circumscriptieNume" : "Oraş Costeşti"
 }, {
-  "nume" : "Toma Ionel-gheorghe",
+  "nume" : "Ionel-Gheorghe Toma",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,
   "circumscriptieNume" : "Oraş Costeşti"
 }, {
-  "nume" : "Grigore Barbu",
+  "nume" : "Barbu Grigore",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,
   "circumscriptieNume" : "Oraş Costeşti"
 }, {
-  "nume" : "Sandu Florin",
+  "nume" : "Florin Sandu",
   "functie" : "Primar",
-  "partid" : "Partidul Ecologist Român",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,
   "circumscriptieNume" : "Oraş Costeşti"
 }, {
-  "nume" : "Niţă Marian",
+  "nume" : "Marian Niţă",
   "functie" : "Primar",
-  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
   "pozitieBuletin" : 6,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,
   "circumscriptieNume" : "Oraş Costeşti"
 }, {
-  "nume" : "Dragomirescu Mihai",
+  "nume" : "Mihai Dragomirescu",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 7,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 4,

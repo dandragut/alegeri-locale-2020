@@ -1,39 +1,61 @@
 [ {
-  "nume" : "Bîlea Constantin",
+  "nume" : "Constantin Bîlea",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 70,
   "circumscriptieNume" : "Oarja"
 }, {
-  "nume" : "Badea Cristian",
+  "nume" : "Cristian Badea",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 70,
   "circumscriptieNume" : "Oarja"
 }, {
-  "nume" : "Angelescu Florin",
+  "nume" : "Florin Angelescu",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 70,
   "circumscriptieNume" : "Oarja"
 }, {
-  "nume" : "Argeşanu Alexandru",
+  "nume" : "Alexandru Argeşanu",
   "functie" : "Primar",
-  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 70,
   "circumscriptieNume" : "Oarja"
 }, {
-  "nume" : "Bălae Ionel",
+  "nume" : "Ionel Bălae",
   "functie" : "Primar",
-  "partid" : "Partidul România Mare",
+  "partid" : {
+    "cod" : "PAM",
+    "nume" : "Partidul România Mare",
+    "facebook" : "https://www.facebook.com/PartidulRomaniaMare"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 70,

@@ -1,23 +1,36 @@
 [ {
-  "nume" : "Crîmpiţă-matei Andreea-iuliana",
+  "nume" : "Andreea-Iuliana Crîmpiţă-matei",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 61,
   "circumscriptieNume" : "Mihăeşti"
 }, {
-  "nume" : "Iana Ion",
+  "nume" : "Ion Iana",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 61,
   "circumscriptieNume" : "Mihăeşti"
 }, {
-  "nume" : "Popa Constantin-marcel",
+  "nume" : "Constantin-Marcel Popa",
   "functie" : "Primar",
-  "partid" : "Candidat Independent",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 61,

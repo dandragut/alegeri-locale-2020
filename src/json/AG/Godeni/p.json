@@ -1,47 +1,76 @@
 [ {
-  "nume" : "Savu Gheorghe",
+  "nume" : "Gheorghe Savu",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 50,
   "circumscriptieNume" : "Godeni"
 }, {
-  "nume" : "Pădureanu Ion",
+  "nume" : "Ion Pădureanu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 50,
   "circumscriptieNume" : "Godeni"
 }, {
-  "nume" : "Croitoru Ionela-tatiana",
+  "nume" : "Ionela-Tatiana Croitoru",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 50,
   "circumscriptieNume" : "Godeni"
 }, {
-  "nume" : "Aldea Ion",
+  "nume" : "Ion Aldea",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 50,
   "circumscriptieNume" : "Godeni"
 }, {
-  "nume" : "Poştoacă Constantin-dorin",
+  "nume" : "Constantin-Dorin Poştoacă",
   "functie" : "Primar",
-  "partid" : "Partidul Ecologist Român",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 50,
   "circumscriptieNume" : "Godeni"
 }, {
-  "nume" : "Pătrăşcan Remus-ionel",
+  "nume" : "Remus-Ionel Pătrăşcan",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 6,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 50,

@@ -1,71 +1,112 @@
 [ {
-  "nume" : "Dima Eduard-ştefan",
+  "nume" : "Eduard-Ştefan Dima",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Velcea Nicolae",
+  "nume" : "Nicolae Velcea",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Ionescu Constantin",
+  "nume" : "Constantin Ionescu",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Bărbuceanu Mihail-dorin",
+  "nume" : "Mihail-Dorin Bărbuceanu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Diaconu Mihai-daniel",
+  "nume" : "Mihai-Daniel Diaconu",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Dumitru Ioana-jenica",
+  "nume" : "Ioana-Jenica Dumitru",
   "functie" : "Primar",
-  "partid" : "Partidul Neamul Românesc",
+  "partid" : {
+    "cod" : "PNR",
+    "nume" : "Partidul Neamul Românesc",
+    "website" : "https://partidulneamulromanesc.ro",
+    "facebook" : "https://www.facebook.com/PartidulNeamulRomanescPaginaOficiala"
+  },
   "pozitieBuletin" : 6,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Mihalcea Ion",
+  "nume" : "Ion Mihalcea",
   "functie" : "Primar",
-  "partid" : "Partidul Ecologist Român",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
   "pozitieBuletin" : 7,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Nistor Dumitru",
+  "nume" : "Dumitru Nistor",
   "functie" : "Primar",
-  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
   "pozitieBuletin" : 8,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,
   "circumscriptieNume" : "Oraş Ştefăneşti"
 }, {
-  "nume" : "Gubavu Marin",
+  "nume" : "Marin Gubavu",
   "functie" : "Primar",
-  "partid" : "Candidat Independent",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
   "pozitieBuletin" : 9,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 6,

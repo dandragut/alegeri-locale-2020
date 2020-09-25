@@ -1,79 +1,116 @@
-{
-  "1" : {
-    "nume" : "Mînzînă Ion",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Social Democrat",
-    "pozitieBuletin" : 1,
-    "pozitieLista" : 1
+[ {
+  "nume" : "Ion Mînzînă",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
   },
-  "2" : {
-    "nume" : "Soare Emanuel",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Național Liberal",
-    "pozitieBuletin" : 2,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Emanuel Soare",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
   },
-  "3" : {
-    "nume" : "Pavel Elena-rodica",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
-    "pozitieBuletin" : 3,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Elena-Rodica Pavel",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
   },
-  "4" : {
-    "nume" : "Baciu Virgil",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Mișcarea Populară",
-    "pozitieBuletin" : 4,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Virgil Baciu",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
   },
-  "5" : {
-    "nume" : "Grecu Dumitru",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul PRO Romania",
-    "pozitieBuletin" : 5,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Dumitru Grecu",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
   },
-  "6" : {
-    "nume" : "Vele Claudiu-eduard",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Națiunea Română",
-    "pozitieBuletin" : 6,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Claudiu-Eduard Vele",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PNR",
+    "nume" : "Partidul Națiunea Română",
+    "website" : "https://www.pnro.ro"
   },
-  "7" : {
-    "nume" : "Florea Constantin-eduard",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Ecologist Român",
-    "pozitieBuletin" : 7,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Constantin-Eduard Florea",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
   },
-  "8" : {
-    "nume" : "Teodorescu Mihaela",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Dreptăţii",
-    "pozitieBuletin" : 8,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Mihaela Teodorescu",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PD",
+    "nume" : "Partidul Dreptăţii",
+    "facebook" : "https://www.facebook.com/partiduldreptatiiromania"
   },
-  "9" : {
-    "nume" : "Cîrstea Adrian-ştefan",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Alianța USR PLUS",
-    "pozitieBuletin" : 9,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Adrian-Ştefan Cîrstea",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
   },
-  "10" : {
-    "nume" : "Janţă Gherghina",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Alternativa Dreaptă",
-    "pozitieBuletin" : 10,
-    "pozitieLista" : 1
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Gherghina Janţă",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "AD",
+    "nume" : "Partidul Alternativa Dreaptă",
+    "website" : "https://alternativadreapta.ro"
   },
-  "11" : {
-    "nume" : "Lazăr Ion-cornel",
-    "functie" : "Presedinte Consiliu Judetean",
-    "partid" : "Partidul Puterii Umaniste (social - liberal)",
-    "pozitieBuletin" : 11,
-    "pozitieLista" : 1
-  }
-}
+  "pozitieBuletin" : 10,
+  "pozitieLista" : 1
+}, {
+  "nume" : "Ion-Cornel Lazăr",
+  "functie" : "Presedinte Consiliu Judetean",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
+  "pozitieBuletin" : 11,
+  "pozitieLista" : 1
+} ]

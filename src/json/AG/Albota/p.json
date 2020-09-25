@@ -1,31 +1,48 @@
 [ {
-  "nume" : "Dumitru Ion",
+  "nume" : "Ion Dumitru",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 10,
   "circumscriptieNume" : "Albota"
 }, {
-  "nume" : "David Ilie-dragoş",
+  "nume" : "Ilie-Dragoş David",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 10,
   "circumscriptieNume" : "Albota"
 }, {
-  "nume" : "Mareşanu Mihail",
+  "nume" : "Mihail Mareşanu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 10,
   "circumscriptieNume" : "Albota"
 }, {
-  "nume" : "Zanfir Florin",
+  "nume" : "Florin Zanfir",
   "functie" : "Primar",
-  "partid" : "Candidat Independent",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 10,

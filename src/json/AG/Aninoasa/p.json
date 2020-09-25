@@ -1,39 +1,62 @@
 [ {
-  "nume" : "Mastan Florin",
+  "nume" : "Florin Mastan",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 11,
   "circumscriptieNume" : "Aninoasa"
 }, {
-  "nume" : "Ştefan Benonie",
+  "nume" : "Benonie Ştefan",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 11,
   "circumscriptieNume" : "Aninoasa"
 }, {
-  "nume" : "Chiţimia Mihai-alexandru",
+  "nume" : "Mihai-Alexandru Chiţimia",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 11,
   "circumscriptieNume" : "Aninoasa"
 }, {
-  "nume" : "Lina Cătălin-vasile",
+  "nume" : "Cătălin-Vasile Lina",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 11,
   "circumscriptieNume" : "Aninoasa"
 }, {
-  "nume" : "Şimon Gheorghe",
+  "nume" : "Gheorghe Şimon",
   "functie" : "Primar",
-  "partid" : "Partidul Puterii Umaniste (social - liberal)",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 11,

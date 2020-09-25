@@ -1,0 +1,102 @@
+[ {
+  "nume" : "Gheorghe Andreescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Constantin Panţurescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Daniel Petrescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Ion-Petre Păunescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Cristian Mitrofan",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Ionuţ-Bogdănel Marina",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Gabriel-Mihai Stănciulescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNR",
+    "nume" : "Partidul Națiunea Română",
+    "website" : "https://www.pnro.ro"
+  },
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+}, {
+  "nume" : "Emelian Oreviceanu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 3,
+  "circumscriptieNume" : "Municipiul Curtea De Argeş"
+} ]

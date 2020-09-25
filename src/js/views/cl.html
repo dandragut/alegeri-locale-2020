@@ -1,0 +1,59 @@
+<div class="oj-hybrid-padding">
+    <h4>Consiliu Local</h4>
+
+    <oj-combobox-one id="comboboxJudete" label-hint="Județ" label-edge="inside"
+                     options="{{judete}}"
+                     value="{{judet}}"
+                     on-value-changed="[[judetCuLocalitatiSchimba]]"
+                     style="max-width: 20em">
+    </oj-combobox-one>
+    <oj-combobox-one id="comboboxLocalitati" label-hint="Localitate" label-edge="inside"
+                     options="{{localitati}}"
+                     value="{{localitate}}"
+                     on-value-changed="[[localitateSchimba]]"
+                     style="max-width: 20em">
+    </oj-combobox-one>
+
+    <div id="masonrylayout-basic-example">
+        <div class="demo-scroll-container">
+            <oj-masonry-layout id="masonryLayout">
+                <oj-bind-for-each data="[[primariDataProvider]]">
+                    <template data-oj-as="primar">
+                        <div :id="[[primar.index]]" class="oj-panel oj-panel-shadow-sm oj-bg-neutral-0 oj-masonrylayout-tile-2x1">
+                            <div class="oj-flex">
+                                <span class="oj-flex-item oj-sm-1 oj-sm-margin-1x-top">
+                                    <oj-bind-text value="[[primar.data.pozitieBuletin]]"></oj-bind-text>.
+                                </span>
+                                <span class="oj-flex-item oj-sm-flex-1 oj-sm-margin-1x-top">
+                                  <oj-bind-if test="[[primar.data.partid.website]]">
+                                    <a :href="[[primar.data.partid.website]]" target="_blank">
+                                      <oj-bind-text value="[[primar.data.partid.nume]]"></oj-bind-text>
+                                    </a>
+                                  </oj-bind-if>
+                                  <oj-bind-if test="[[!primar.data.partid.website && primar.data.partid.facebook]]">
+                                    <a :href="[[primar.data.partid.facebook]]" target="_blank">
+                                      <oj-bind-text value="[[primar.data.partid.nume]]"></oj-bind-text>
+                                    </a>
+                                  </oj-bind-if>
+                                  <oj-bind-if test="[[!primar.data.partid.website && !primar.data.partid.facebook]]">
+                                    <oj-bind-text value="[[primar.data.partid.nume]]"></oj-bind-text>
+                                  </oj-bind-if>
+                                </span>
+                                <span class="oj-flex-item oj-sm-flex-0">
+                                    <img :src="[['/css/images/partide/' + primar.data.partid.cod + '.png']]"></img>
+                                </span>
+                            </div>
+                            <div class="oj-flex oj-sm-flex-items-initial oj-sm-justify-content-center">
+                              <span class="oj-flex-item oj-typography-body-xl oj-sm-padding-3x-vertical">
+                                <a class="oj-flex-item" :href="[['https://google.com/search?q=' + primar.data.nume + ' ' + self.localitate()]]" target="_blank">
+                                  <oj-bind-text value="[[primar.data.nume]]"></oj-bind-text>
+                                </a>
+                              </span>
+                            </div>
+                        </div>
+                    </template>
+                </oj-bind-for-each>
+            </oj-masonry-layout>
+        </div>
+    </div>
+</div>

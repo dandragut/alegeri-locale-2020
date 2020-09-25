@@ -1,31 +1,50 @@
 [ {
-  "nume" : "Unguroaica Ionuţ-corneliu",
+  "nume" : "Ionuţ-Corneliu Unguroaica",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 16,
   "circumscriptieNume" : "Bălileşti"
 }, {
-  "nume" : "Hăbuc Ştefăniţă",
+  "nume" : "Ştefăniţă Hăbuc",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 16,
   "circumscriptieNume" : "Bălileşti"
 }, {
-  "nume" : "Alexandrescu George-valeriu",
+  "nume" : "George-Valeriu Alexandrescu",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 16,
   "circumscriptieNume" : "Bălileşti"
 }, {
-  "nume" : "Turturică Victor-cătălin",
+  "nume" : "Victor-Cătălin Turturică",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 16,

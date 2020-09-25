@@ -1,15 +1,25 @@
 [ {
-  "nume" : "Mateescu Constantin",
+  "nume" : "Constantin Mateescu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 73,
   "circumscriptieNume" : "Poienarii De Argeş"
 }, {
-  "nume" : "Boncea Dragoş-nicolae",
+  "nume" : "Dragoş-Nicolae Boncea",
   "functie" : "Primar",
-  "partid" : "Alianța Național Țărănistă",
+  "partid" : {
+    "cod" : "ANT",
+    "nume" : "Alianța Național Țărănistă",
+    "website" : "https://taranistii.eu",
+    "facebook" : "https://www.facebook.com/AliantaNationalTaranista/"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 73,

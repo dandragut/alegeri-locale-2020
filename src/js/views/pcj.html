@@ -1,10 +1,53 @@
 <div class="oj-hybrid-padding">
-    <h5>Customers Content Area</h5>
+    <h4>Președinte Consiliu Județean</h4>
 
-    <oj-combobox-one id="selectJudete" label-hint="Județ" label-edge="inside"
+    <oj-combobox-one id="comboboxJudete" label-hint="Județ" label-edge="inside"
                      options="{{judete}}"
                      value="{{judet}}"
-                     on-value-changed="[[judetSchimba]]"
-                     style="max-width:20em">
+                     on-value-changed="[[judetFaraLocalitatiSchimba]]"
+                     style="max-width: 20em">
     </oj-combobox-one>
+
+    <div id="masonrylayout-basic-example">
+        <div class="demo-scroll-container">
+            <oj-masonry-layout id="masonryLayout">
+                <oj-bind-for-each data="[[presedintiConsiliuJudeteanDataProvider]]">
+                    <template data-oj-as="presedinteConsiliuJudetean">
+                        <div :id="[[presedinteConsiliuJudetean.index]]" class="oj-panel oj-panel-shadow-sm oj-bg-neutral-0 oj-masonrylayout-tile-2x1">
+                            <div class="oj-flex">
+                                <span class="oj-flex-item oj-sm-1 oj-sm-margin-1x-top">
+                                    <oj-bind-text value="[[presedinteConsiliuJudetean.data.pozitieBuletin]]"></oj-bind-text>.
+                                </span>
+                                <span class="oj-flex-item oj-sm-flex-1 oj-sm-margin-1x-top">
+                                  <oj-bind-if test="[[presedinteConsiliuJudetean.data.partid.website]]">
+                                    <a :href="[[presedinteConsiliuJudetean.data.partid.website]]" target="_blank">
+                                      <oj-bind-text value="[[presedinteConsiliuJudetean.data.partid.nume]]"></oj-bind-text>
+                                    </a>
+                                  </oj-bind-if>
+                                  <oj-bind-if test="[[!presedinteConsiliuJudetean.data.partid.website && presedinteConsiliuJudetean.data.partid.facebook]]">
+                                    <a :href="[[presedinteConsiliuJudetean.data.partid.facebook]]" target="_blank">
+                                      <oj-bind-text value="[[presedinteConsiliuJudetean.data.partid.nume]]"></oj-bind-text>
+                                    </a>
+                                  </oj-bind-if>
+                                  <oj-bind-if test="[[!presedinteConsiliuJudetean.data.partid.website && !presedinteConsiliuJudetean.data.partid.facebook]]">
+                                    <oj-bind-text value="[[presedinteConsiliuJudetean.data.partid.nume]]"></oj-bind-text>
+                                  </oj-bind-if>
+                                </span>
+                                <span class="oj-flex-item oj-sm-flex-0">
+                                    <img :src="[['/css/images/partide/' + presedinteConsiliuJudetean.data.partid.cod + '.png']]"></img>
+                                </span>
+                            </div>
+                            <div class="oj-flex oj-sm-flex-items-initial oj-sm-justify-content-center">
+                              <span class="oj-flex-item oj-typography-body-xl oj-sm-padding-3x-vertical">
+                                <a class="oj-flex-item" :href="[['https://google.com/search?q=' + presedinteConsiliuJudetean.data.nume + ' ' + self.localitate()]]" target="_blank">
+                                  <oj-bind-text value="[[presedinteConsiliuJudetean.data.nume]]"></oj-bind-text>
+                                </a>
+                              </span>
+                            </div>
+                        </div>
+                    </template>
+                </oj-bind-for-each>
+            </oj-masonry-layout>
+        </div>
+    </div>
 </div>

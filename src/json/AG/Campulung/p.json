@@ -1,0 +1,126 @@
+[ {
+  "nume" : "Marian Rădulescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Florin Bivol",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Ioan Liviu Ţâroiu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Nicolae Zaharia",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Ion Ciurea",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Elena-Valerica Lăsconi",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Marius Dumitrescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "AD",
+    "nume" : "Partidul Alternativa Dreaptă",
+    "website" : "https://alternativadreapta.ro"
+  },
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Mircea Fulger",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Anca-Mihaela Coşa",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "AUR",
+    "nume" : "Partidul Alianța pentru Unirea Românilor",
+    "website" : "https://www.partidulaur.ro/",
+    "facebook" : "https://www.facebook.com/partidulAUR/"
+  },
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+}, {
+  "nume" : "Ioan-Virgil Stuparu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
+  "pozitieBuletin" : 10,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 2,
+  "circumscriptieNume" : "Municipiul Câmpulung"
+} ]

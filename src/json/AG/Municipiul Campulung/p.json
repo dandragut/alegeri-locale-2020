@@ -1,79 +1,124 @@
 [ {
-  "nume" : "Rădulescu Marian",
+  "nume" : "Rădulescu MARIAN",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Bivol Florin",
+  "nume" : "Bivol FLORIN",
   "functie" : "Primar",
-  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Ţâroiu Ioan Liviu",
+  "nume" : "Ţâroiu IOAN LIVIU",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Zaharia Nicolae",
+  "nume" : "Zaharia NICOLAE",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Ciurea Ion",
+  "nume" : "Ciurea ION",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Lăsconi Elena-valerica",
+  "nume" : "Lăsconi ELENA-VALERICA",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 6,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Dumitrescu Marius",
+  "nume" : "Dumitrescu MARIUS",
   "functie" : "Primar",
-  "partid" : "Partidul Alternativa Dreaptă",
+  "partid" : {
+    "cod" : "AD",
+    "nume" : "Partidul Alternativa Dreaptă",
+    "website" : "https://alternativadreapta.ro"
+  },
   "pozitieBuletin" : 7,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Fulger Mircea",
+  "nume" : "Fulger MIRCEA",
   "functie" : "Primar",
-  "partid" : "Partidul Ecologist Român",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
   "pozitieBuletin" : 8,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Coşa Anca-mihaela",
+  "nume" : "Coşa ANCA-MIHAELA",
   "functie" : "Primar",
-  "partid" : "Partidul Alianța pentru Unirea Românilor",
+  "partid" : {
+    "cod" : "AUR",
+    "nume" : "Partidul Alianța pentru Unirea Românilor",
+    "website" : "https://www.partidulaur.ro/",
+    "facebook" : "https://www.facebook.com/partidulAUR/"
+  },
   "pozitieBuletin" : 9,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,
   "circumscriptieNume" : "Municipiul Câmpulung"
 }, {
-  "nume" : "Stuparu Ioan-virgil",
+  "nume" : "Stuparu IOAN-VIRGIL",
   "functie" : "Primar",
-  "partid" : "Candidat Independent",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
   "pozitieBuletin" : 10,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 2,

@@ -1,39 +1,62 @@
 [ {
-  "nume" : "Stanciu Ilie",
+  "nume" : "Ilie Stanciu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 68,
   "circumscriptieNume" : "Negraşi"
 }, {
-  "nume" : "Roceanu Emil",
+  "nume" : "Emil Roceanu",
   "functie" : "Primar",
-  "partid" : "Partidul Mișcarea Populară",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 68,
   "circumscriptieNume" : "Negraşi"
 }, {
-  "nume" : "Bratu Cosmin-claudiu",
+  "nume" : "Cosmin-Claudiu Bratu",
   "functie" : "Primar",
-  "partid" : "Alianța USR PLUS",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 68,
   "circumscriptieNume" : "Negraşi"
 }, {
-  "nume" : "Constantin Alexandru",
+  "nume" : "Alexandru Constantin",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 68,
   "circumscriptieNume" : "Negraşi"
 }, {
-  "nume" : "Stancu Gheorghe",
+  "nume" : "Gheorghe Stancu",
   "functie" : "Primar",
-  "partid" : "Candidat Independent",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
   "pozitieBuletin" : 5,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 68,

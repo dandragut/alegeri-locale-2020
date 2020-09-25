@@ -1,0 +1,114 @@
+[ {
+  "nume" : "Dima EDUARD-ŞTEFAN",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Velcea NICOLAE",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Ionescu CONSTANTIN",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Bărbuceanu MIHAIL-DORIN",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Diaconu MIHAI-DANIEL",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Dumitru IOANA-JENICA",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNR",
+    "nume" : "Partidul Neamul Românesc",
+    "website" : "https://partidulneamulromanesc.ro",
+    "facebook" : "https://www.facebook.com/PartidulNeamulRomanescPaginaOficiala"
+  },
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Mihalcea ION",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Nistor DUMITRU",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+}, {
+  "nume" : "Gubavu MARIN",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 6,
+  "circumscriptieNume" : "Oraş Ştefăneşti"
+} ]

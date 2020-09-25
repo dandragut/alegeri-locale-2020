@@ -1,15 +1,23 @@
 [ {
-  "nume" : "Secăreanu Dumitru",
+  "nume" : "Dumitru Secăreanu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 44,
   "circumscriptieNume" : "Dâmbovicioara"
 }, {
-  "nume" : "Avram Marian-vicenţiu",
+  "nume" : "Marian-Vicenţiu Avram",
   "functie" : "Primar",
-  "partid" : "Candidat Independent",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 44,

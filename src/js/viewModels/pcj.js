@@ -1,54 +1,41 @@
-/**
- * @license
- * Copyright (c) 2014, 2020, Oracle and/or its affiliates.
- * Licensed under The Universal Permissive License (UPL), Version 1.0
- * as shown at https://oss.oracle.com/licenses/upl/
- * @ignore
- */
-/*
- * Your customer ViewModel code goes here
- */
-define(['accUtils'],
- function(accUtils) {
-    function CustomerViewModel() {
-      // Below are a set of the ViewModel methods invoked by the oj-module component.
-      // Please reference the oj-module jsDoc for additional information.
+define(['accUtils', 'knockout', 'ojs/ojbootstrap', 'ojs/ojarraydataprovider', 'ojs/ojknockout', 'ojs/ojmasonrylayout', 'ojs/ojselectcombobox'],
+function(accUtils, ko, Bootstrap, ArrayDataProvider) {
+   function PresedinteConsiliuJudeteanViewModel() {
+     /*
+      * Data
+      */
+      self.presedintiConsiliuJudetean             = ko.observableArray();
+      self.presedintiConsiliuJudeteanDataProvider = new ArrayDataProvider(self.presedintiConsiliuJudetean, { keyAttributes: 'nume' });
 
-      /**
-       * Optional ViewModel method invoked after the View is inserted into the
-       * document DOM.  The application can put logic that requires the DOM being
-       * attached here.
-       * This method might be called multiple times - after the View is created
-       * and inserted into the DOM and after the View is reconnected
-       * after being disconnected.
+      /*
+       * Localitati (drop-down handler)...
        */
-      this.connected = () => {
-        accUtils.announce('Customers page loaded.', 'assertive');
-        document.title = "Customers";
-        // Implement further logic if needed
-      };
+      self.judetFaraLocalitatiSchimba = function(event, data) {
+        if ((event.detail.value && !event.detail.previousValue)
+          || (event.detail.value && event.detail.previousValue && event.detail.value != event.detail.previousValue)) {
+          $.getJSON(['json', self.judet(), 'pcj.json'].join('/'))
+            .done(function(data) {
+              self.presedintiConsiliuJudetean([]);
+              setTimeout(function() {
+                self.presedintiConsiliuJudetean(data);
+                $("#masonryLayout").ojMasonryLayout('refresh');
+              }, 100);
 
-      /**
-       * Optional ViewModel method invoked after the View is disconnected from the DOM.
-       */
-      this.disconnected = () => {
-        // Implement if needed
-      };
+              // Stocheaza judet / localitate in URL...
+              self.schimbaParametriiInURL();
+            })
+            .fail(function() {
+              self.presedintiConsiliuJudetean([]);
+            });
+        }
+      }
+   }
 
-      /**
-       * Optional ViewModel method invoked after transition to the new View is complete.
-       * That includes any possible animation between the old and the new View.
-       */
-      this.transitionCompleted = () => {
-        // Implement if needed
-      };
-    }
-
-    /*
-     * Returns an instance of the ViewModel providing one instance of the ViewModel. If needed,
-     * return a constructor for the ViewModel so that the ViewModel is constructed
-     * each time the view is displayed.
-     */
-    return CustomerViewModel;
+   /*
+   * Returns an instance of the ViewModel providing one instance of the ViewModel. If needed,
+   * return a constructor for the ViewModel so that the ViewModel is constructed
+   * each time the view is displayed.
+   */
+    return PresedinteConsiliuJudeteanViewModel;
   }
 );

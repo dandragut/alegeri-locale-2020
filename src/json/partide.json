@@ -1,0 +1,124 @@
+[ {
+  "cod" : "PNR",
+  "nume" : "Partidul Națiunea Română",
+  "website" : "https://www.pnro.ro"
+}, {
+  "cod" : "PPU",
+  "nume" : "Partidul Puterii Umaniste (social - liberal)",
+  "website" : "https://ppusl.ro"
+}, {
+  "cod" : "PD",
+  "nume" : "Partidul Dreptăţii",
+  "facebook" : "https://www.facebook.com/partiduldreptatiiromania"
+}, {
+  "cod" : "ALDE",
+  "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "website" : "https://alde.ro"
+}, {
+  "cod" : "PRO",
+  "nume" : "Partidul PRO Romania",
+  "website" : "https://www.proromania.ro"
+}, {
+  "cod" : "AD",
+  "nume" : "Partidul Alternativa Dreaptă",
+  "website" : "https://alternativadreapta.ro"
+}, {
+  "cod" : "PAM",
+  "nume" : "Partidul România Mare",
+  "facebook" : "https://www.facebook.com/PartidulRomaniaMare"
+}, {
+  "cod" : "PNL",
+  "nume" : "Partidul Național Liberal",
+  "website" : "https://pnl.ro",
+  "facebook" : "https://www.facebook.com/pnl.ro"
+}, {
+  "cod" : "PSD",
+  "nume" : "Partidul Social Democrat",
+  "website" : "https://www.psd.ro",
+  "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+}, {
+  "cod" : "USR-PLUS",
+  "nume" : "Alianța USR PLUS",
+  "website" : "https://usrplus.ro",
+  "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+}, {
+  "cod" : "PER",
+  "nume" : "Partidul Ecologist Român",
+  "website" : "https://per.ro",
+  "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+}, {
+  "cod" : "PMP",
+  "nume" : "Partidul Mișcarea Populară",
+  "website" : "https://pmponline.ro",
+  "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+}, {
+  "cod" : "PRR",
+  "nume" : "Partidul Republican din România",
+  "website" : "https://partidul-republican.ro",
+  "facebook" : "https://www.facebook.com/partidulrepublican"
+}, {
+  "cod" : "PRSR",
+  "nume" : "Partidul RE:START ROMÂNIA",
+  "website" : "https://restart-romania.ro",
+  "facebook" : "https://www.facebook.com/PartidulRestartRomania/"
+}, {
+  "cod" : "PR",
+  "nume" : "Partidul Verde",
+  "website" : "https://partidulverde.ro",
+  "facebook" : "https://www.facebook.com/Partidul.Verde/"
+}, {
+  "cod" : "PNTCD",
+  "nume" : "Partidul Național Țărănesc Creștin Democrat",
+  "website" : "https://pntcd.ro",
+  "facebook" : "https://www.facebook.com/PNTCD.National/"
+}, {
+  "cod" : "POL",
+  "nume" : "Partidul Oamenilor Liberi",
+  "website" : "https://oameniliberi.com",
+  "facebook" : "https://www.facebook.com/PartidulOamenilorLiberi/"
+}, {
+  "cod" : "AUR",
+  "nume" : "Partidul Alianța pentru Unirea Românilor",
+  "website" : "https://www.partidulaur.ro/",
+  "facebook" : "https://www.facebook.com/partidulAUR/"
+}, {
+  "cod" : "APRPE",
+  "nume" : "Asociatia Partida Romilor “Pro-Europa”",
+  "website" : "http://partidaromilor.ro",
+  "facebook" : "https://www.facebook.com/pages/category/Non-Governmental-Organization--NGO-/Asociatia-Partida-Romilor-Pro-Europa-291574127617767/"
+}, {
+  "cod" : "PNR",
+  "nume" : "Partidul Neamul Românesc",
+  "website" : "https://partidulneamulromanesc.ro",
+  "facebook" : "https://www.facebook.com/PartidulNeamulRomanescPaginaOficiala"
+}, {
+  "cod" : "AURR",
+  "nume" : "Alianța Pentru Unitatea Rromilor",
+  "facebook" : "https://www.facebook.com/pages/category/Society---Culture-Website/Alianta-pentru-Unitatea-Rromilor-Romania-pagina-oficiala-403449853566670/"
+}, {
+  "cod" : "PAAA",
+  "nume" : "Partidul Politic „Alianţa Albeştii De Arges”"
+}, {
+  "cod" : "PADN",
+  "nume" : "Partidul Alternativa pentru Demnitate Națională",
+  "website" : "https://adn.ro",
+  "facebook" : "https://www.facebook.com/AlternativaPentruDemnitateNationala/"
+}, {
+  "cod" : "PSR",
+  "nume" : "Partidul Socialist Român",
+  "website" : "http://www.psr.org.ro",
+  "facebook" : "https://www.facebook.com/OrganizatiaMunicipiuluiBucuresti/"
+}, {
+  "cod" : "BUN",
+  "nume" : "Partidul Blocul Unității Naționale",
+  "website" : "https://partidulbun.ro",
+  "facebook" : "https://www.facebook.com/partidulbun/"
+}, {
+  "cod" : "ANT",
+  "nume" : "Alianța Național Țărănistă",
+  "website" : "https://taranistii.eu",
+  "facebook" : "https://www.facebook.com/AliantaNationalTaranista/"
+}, {
+  "cod" : "INDEP",
+  "nume" : "Candidat Independent"
+} ]

@@ -1,23 +1,37 @@
 [ {
-  "nume" : "Gîrleanu Ion",
+  "nume" : "Ion Gîrleanu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 20,
   "circumscriptieNume" : "Bogaţi"
 }, {
-  "nume" : "Ungureanu Maria-liliana",
+  "nume" : "Maria-Liliana Ungureanu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 20,
   "circumscriptieNume" : "Bogaţi"
 }, {
-  "nume" : "Constantin Victor-mihăiţă",
+  "nume" : "Victor-Mihăiţă Constantin",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 20,

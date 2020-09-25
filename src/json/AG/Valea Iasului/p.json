@@ -1,31 +1,49 @@
 [ {
-  "nume" : "Enescu Cristian",
+  "nume" : "Cristian Enescu",
   "functie" : "Primar",
-  "partid" : "Partidul Social Democrat",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
   "pozitieBuletin" : 1,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 98,
   "circumscriptieNume" : "Valea Iaşului"
 }, {
-  "nume" : "Ştefănescu Constantin",
+  "nume" : "Constantin Ştefănescu",
   "functie" : "Primar",
-  "partid" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
   "pozitieBuletin" : 2,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 98,
   "circumscriptieNume" : "Valea Iaşului"
 }, {
-  "nume" : "Barbu Nicolae",
+  "nume" : "Nicolae Barbu",
   "functie" : "Primar",
-  "partid" : "Partidul Național Liberal",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
   "pozitieBuletin" : 3,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 98,
   "circumscriptieNume" : "Valea Iaşului"
 }, {
-  "nume" : "Ungureanu Vasile",
+  "nume" : "Vasile Ungureanu",
   "functie" : "Primar",
-  "partid" : "Partidul PRO Romania",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
   "pozitieBuletin" : 4,
   "pozitieLista" : 1,
   "circumscriptieNumar" : 98,

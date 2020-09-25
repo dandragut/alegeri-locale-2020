@@ -1,0 +1,162 @@
+[ {
+  "nume" : "Ionuţ-Gabriel Zidaru",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "ALDE",
+    "nume" : "Partidul Alianța Liberalilor și Democraților (ALDE)",
+    "website" : "https://alde.ro"
+  },
+  "pozitieBuletin" : 1,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Dănuţ Dinu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PMP",
+    "nume" : "Partidul Mișcarea Populară",
+    "website" : "https://pmponline.ro",
+    "facebook" : "https://www.facebook.com/PartidulMiscareaPopulara.RO/"
+  },
+  "pozitieBuletin" : 2,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Liviu Stancu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PRO",
+    "nume" : "Partidul PRO Romania",
+    "website" : "https://www.proromania.ro"
+  },
+  "pozitieBuletin" : 3,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Sorin Apostoliceanu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNL",
+    "nume" : "Partidul Național Liberal",
+    "website" : "https://pnl.ro",
+    "facebook" : "https://www.facebook.com/pnl.ro"
+  },
+  "pozitieBuletin" : 4,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Cristian Gentea",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PSD",
+    "nume" : "Partidul Social Democrat",
+    "website" : "https://www.psd.ro",
+    "facebook" : "https://www.facebook.com/PartidulSocialDemocrat"
+  },
+  "pozitieBuletin" : 5,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Gheorghe Dinescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PNTCD",
+    "nume" : "Partidul Național Țărănesc Creștin Democrat",
+    "website" : "https://pntcd.ro",
+    "facebook" : "https://www.facebook.com/PNTCD.National/"
+  },
+  "pozitieBuletin" : 6,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Cristian Popescu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PPU",
+    "nume" : "Partidul Puterii Umaniste (social - liberal)",
+    "website" : "https://ppusl.ro"
+  },
+  "pozitieBuletin" : 7,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Victor Niţă",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PRSR",
+    "nume" : "Partidul RE:START ROMÂNIA",
+    "website" : "https://restart-romania.ro",
+    "facebook" : "https://www.facebook.com/PartidulRestartRomania/"
+  },
+  "pozitieBuletin" : 8,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Liviu-Ionuţ Moşteanu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "USR-PLUS",
+    "nume" : "Alianța USR PLUS",
+    "website" : "https://usrplus.ro",
+    "facebook" : "https://www.facebook.com/alianta2020usrplus/"
+  },
+  "pozitieBuletin" : 9,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Cătălin Gherzan",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PER",
+    "nume" : "Partidul Ecologist Român",
+    "website" : "https://per.ro",
+    "facebook" : "https://www.facebook.com/PartidulEcologistRoman/"
+  },
+  "pozitieBuletin" : 10,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Laurenţiu Gheldiu",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "PD",
+    "nume" : "Partidul Dreptăţii",
+    "facebook" : "https://www.facebook.com/partiduldreptatiiromania"
+  },
+  "pozitieBuletin" : 11,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Sorin Bălan",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
+  "pozitieBuletin" : 12,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+}, {
+  "nume" : "Dragoş Alecsandru",
+  "functie" : "Primar",
+  "partid" : {
+    "cod" : "INDEP",
+    "nume" : "Candidat Independent"
+  },
+  "pozitieBuletin" : 13,
+  "pozitieLista" : 1,
+  "circumscriptieNumar" : 1,
+  "circumscriptieNume" : "Municipiul Piteşti"
+} ]
